@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\bin\Release\HomeWork_11.exe.config
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\bin\Release\HomeWork_11.exe
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\bin\Release\HomeWork_11.pdb
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\obj\Release\HomeWork_11.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\obj\Release\HomeWork_11.exe
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\obj\Release\HomeWork_11.pdb
+C:\Users\User\Source\Repos\HomeWork_11\HomeWork_11\obj\Release\HomeWork_11.csprojAssemblyReference.cache
